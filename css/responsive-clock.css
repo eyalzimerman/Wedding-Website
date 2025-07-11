@@ -181,7 +181,7 @@
 
 .flip-clock-wrapper {
   padding-top: 4em;
-  margin: 4em !important;
+  /* margin: 4em !important; */
 }
 
 .flip-clock-divider .flip-clock-label {
