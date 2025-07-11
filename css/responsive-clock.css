@@ -179,9 +179,10 @@
   }
 }
 
-/* .flip-clock-wrapper {
+.flip-clock-wrapper {
+  padding-top: 4em;
   margin: 4em !important;
-} */
+}
 
 .flip-clock-divider .flip-clock-label {
   color: white !important;
