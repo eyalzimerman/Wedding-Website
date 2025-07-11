@@ -1,11 +1,14 @@
-Source code for our wedding website 👫 (https://we.shyamjos.com/) , Based on HTML theme https://freehtml5.co/wedding-free-html5-bootstrap-template-for-wedding-websites
+# 💍 Eyal & Tamar Wedding Website 🎉
 
-To set the countdown date see below section in `js/clock.js`
+Welcome to the official website for our wedding!  
+This website was lovingly built to share all the magic around our big day — taking place in beautiful **Greece** 🇬🇷
 
-````
-  // Target future date/24 hour time/Timezone
-  let targetDate = moment.tz("2026-06-12 17:00", "Europe/Athens");
-````
+## 📅 Wedding Date
 
-## Screenshot
-![screenshot](https://repository-images.githubusercontent.com/698651028/d9cbed4d-10e2-44bd-bca8-e26a251ff182)
+**📆 June 12, 2026**  
+**🕔 17:00 (5:00 PM)**  
+**📍 [Location Name], Greece**
+
+## 🌐 Website URL
+
+👉 [Click here to view the website live](https://eyalzimerman.github.io/Wedding-Website/)
